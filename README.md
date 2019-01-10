@@ -22,10 +22,9 @@
 ### GAN manipulation: 
 - Explores the latent space: https://arxiv.org/pdf/1609.03552.pdf
 - GAN Dissection, look at the sublayers in the gan to control outputs: https://arxiv.org/pdf/1811.10597.pdf
-- 
 
 ### GAN state of the art : 
-- "style transfer": https://arxiv.org/pdf/1812.04948.pdf
+- "style transfer": https://arxiv.org/pdf/1812.04948.pdf and https://arxiv.org/pdf/1810.01365.pdf
 - an earlier paper by the "style transfer" guys on improving resolution: https://arxiv.org/pdf/1710.10196.pdf
 - going nuts on training: https://arxiv.org/abs/1809.11096
 
