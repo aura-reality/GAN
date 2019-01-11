@@ -30,3 +30,5 @@
 - an earlier paper by the "style transfer" guys on improving resolution: https://arxiv.org/pdf/1710.10196.pdf
 - going nuts on training: https://arxiv.org/abs/1809.11096
 
+### Other
+- Generating music: http://papers.nips.cc/paper/8023-the-challenge-of-realistic-music-generation-modelling-raw-audio-at-scale.pdf
