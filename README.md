@@ -27,7 +27,7 @@
 - interpolating the latent space tricks: https://arxiv.org/pdf/1609.04468.pdf
 
 ### GAN state of the art : 
-- "style transfer": https://arxiv.org/pdf/1812.04948.pdf and https://arxiv.org/pdf/1810.01365.pdf
+- "style transfer": https://arxiv.org/pdf/1812.04948.pdf and https://arxiv.org/pdf/1810.01365.pdf, and an blog post: https://towardsdatascience.com/explained-a-style-based-generator-architecture-for-gans-generating-and-tuning-realistic-6cb2be0f431
 - an earlier paper by the "style transfer" guys on improving resolution: https://arxiv.org/pdf/1710.10196.pdf
 - going nuts on training: https://arxiv.org/abs/1809.11096
 
