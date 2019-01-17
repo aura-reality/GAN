@@ -35,3 +35,5 @@
 
 ### Other
 - Generating music: http://papers.nips.cc/paper/8023-the-challenge-of-realistic-music-generation-modelling-raw-audio-at-scale.pdf
+- Using GANs to generate training data:  https://machinelearning.apple.com/2017/07/07/GAN.html
+
