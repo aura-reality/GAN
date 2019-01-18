@@ -14,6 +14,9 @@
 - Tips and Tricks on Training GAN: https://github.com/soumith/ganhacks
 - GAN Survey paper:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8195348
 
+### VAE
+- Trains a VAE using some simple feedforward nets to discriminate if the outputs look good: https://arxiv.org/pdf/1602.03220.pdf
+
 ### Conditional Gans
 - The paper that introduced conditional GANs: https://arxiv.org/pdf/1411.1784.pdf
 - Pics2pics paper (conditioning on an image/segmentation): https://arxiv.org/pdf/1611.07004.pdf
