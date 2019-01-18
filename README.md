@@ -22,9 +22,9 @@
 ### GAN manipulation: 
 - Explores the latent space using the inverse function: https://arxiv.org/pdf/1609.03552.pdf
 - GAN Dissection, look at the sublayers in the gan to control outputs: https://arxiv.org/pdf/1811.10597.pdf
-- Another latent space exploration: https://openreview.net/pdf?id=BJslDBkwG
+- How to interpolate in the latent space  https://openreview.net/pdf?id=BJslDBkwG
 - haven't read it: https://arxiv.org/abs/1609.07093 
-- interpolating the latent space tricks: https://arxiv.org/pdf/1609.04468.pdf
+- How to interpolate the latent space tricks: https://arxiv.org/pdf/1609.04468.pdf
 
 - https://arxiv.org/pdf/1611.05507.pdf
 
