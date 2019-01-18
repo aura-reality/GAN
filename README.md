@@ -23,10 +23,9 @@
 - Explores the latent space using the inverse function: https://arxiv.org/pdf/1609.03552.pdf
 - GAN Dissection, look at the sublayers in the gan to control outputs: https://arxiv.org/pdf/1811.10597.pdf
 - How to interpolate in the latent space  https://openreview.net/pdf?id=BJslDBkwG
-- haven't read it: https://arxiv.org/abs/1609.07093 
+- Introspective Adversarial Network, a novel hybridization of the VAE and GAN https://arxiv.org/abs/1609.07093 
 - How to interpolate the latent space tricks: https://arxiv.org/pdf/1609.04468.pdf
-
-- https://arxiv.org/pdf/1611.05507.pdf
+- Deep Feature interpolation: https://arxiv.org/pdf/1611.05507.pdf
 
 ### GAN state of the art : 
 - NVIDIA "style transfer": https://arxiv.org/pdf/1812.04948.pdf and https://arxiv.org/pdf/1810.01365.pdf, and an blog post: https://towardsdatascience.com/explained-a-style-based-generator-architecture-for-gans-generating-and-tuning-realistic-6cb2be0f431
