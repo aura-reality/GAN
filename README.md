@@ -16,6 +16,7 @@
 
 ### VAE
 - Trains a VAE using some simple feedforward nets to discriminate if the outputs look good: https://arxiv.org/pdf/1602.03220.pdf
+- Mix a VAE with a GAN to get better loss instead of just L1 / L2 pixel loss https://arxiv.org/pdf/1512.09300.pdf
 
 ### Conditional Gans
 - The paper that introduced conditional GANs: https://arxiv.org/pdf/1411.1784.pdf
