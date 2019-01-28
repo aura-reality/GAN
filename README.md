@@ -9,7 +9,7 @@
   - Recurrent: https://github.com/ml4a/ml4a-guides/blob/master/notebooks/recurrent_neural_networks.ipynb
   
 ## GANs
-- The paper that introduced GANs: https://arxiv.org/abs/1406.2661
+- The paper that introduced GANs, but don't really need to read it: https://arxiv.org/abs/1406.2661
 - GAN demo: https://github.com/Zackory/Keras-MNIST-GAN
 - Tips and Tricks on Training GAN: https://github.com/soumith/ganhacks
 - GAN Survey paper:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8195348
