@@ -36,12 +36,10 @@
 - ProGAN an earlier paper by the "style transfer" guys on improving resolution with multiple generators at increasing resolution: https://arxiv.org/pdf/1710.10196.pdf
 - BigGAN, Google going nuts on training: https://arxiv.org/abs/1809.11096
 
-
 ### Convolutional Generation
 - Generating with a feedforward network: https://arxiv.org/pdf/1707.09405.pdf
 
 ### Other
-- Using neural networks as loss functions - https://arxiv.org/pdf/1602.02644.pdf
 - Generating music: http://papers.nips.cc/paper/8023-the-challenge-of-realistic-music-generation-modelling-raw-audio-at-scale.pdf
 - Using GANs to generate training data:  https://machinelearning.apple.com/2017/07/07/GAN.html
 - GAN paper that combines multiple learned outputs into one final output (also trained on only synthetic data): https://arxiv.org/pdf/1703.10131.pdf 
