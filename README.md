@@ -33,7 +33,7 @@
 
 ### GAN state of the art : 
 - NVIDIA "style transfer": https://arxiv.org/pdf/1812.04948.pdf and an explainer blog post: https://towardsdatascience.com/explained-a-style-based-generator-architecture-for-gans-generating-and-tuning-realistic-6cb2be0f431
-- ProGAN an earlier paper by the "style transfer" guys on improving resolution with multiple generators at increasing resolution: https://arxiv.org/pdf/1710.10196.pdf
+- ProGAN an earlier paper by the "style transfer" guys on improving resolution with multiple generators at increasing resolution: https://arxiv.org/pdf/1710.10196.pdf, explainer blog: https://towardsdatascience.com/progan-how-nvidia-generated-images-of-unprecedented-quality-51c98ec2cbd2
 - BigGAN, Google going nuts on training: https://arxiv.org/abs/1809.11096
 
 ### Convolutional Generation
