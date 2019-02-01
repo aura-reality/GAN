@@ -30,6 +30,12 @@
 - How to interpolate in the latent space  https://openreview.net/pdf?id=BJslDBkwG
 - How to interpolate the latent space tricks: https://arxiv.org/pdf/1609.04468.pdf
 
+### FiLM: 
+Using linear modulation on feature layers (to encode conditional information or latent info). This is the inpsiration for the adaIN layers in the styleGAN paper. 
+- Understand the basic idea: https://distill.pub/2018/feature-wise-transformations/
+- SELF-MODULATION FOR GENERATIVE ADVERSARIAL NETWORKS Chen et al. https://arxiv.org/pdf/1810.01365.pdf. This encodes the latent as linear parameters later in the generator
+- Using linear modulation for encoding conditional information: https://arxiv.org/pdf/1802.05637.pdf. (Seems like we can play off this one? How could a semantic segmentation be mapped to affine parameters to inject into a GAN?) 
+
 ### GAN state of the art : 
 - NVIDIA "style transfer": https://arxiv.org/pdf/1812.04948.pdf
   * explainer blog post: https://towardsdatascience.com/explained-a-style-based-generator-architecture-for-gans-generating-and-tuning-realistic-6cb2be0f431
