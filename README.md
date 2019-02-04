@@ -53,3 +53,6 @@ Using linear modulation on feature layers (to encode conditional information or 
 - Generating music: http://papers.nips.cc/paper/8023-the-challenge-of-realistic-music-generation-modelling-raw-audio-at-scale.pdf
 - Using GANs to generate training data:  https://machinelearning.apple.com/2017/07/07/GAN.html
 - GAN paper that combines multiple learned outputs into one final output (also trained on only synthetic data): https://arxiv.org/pdf/1703.10131.pdf 
+
+### Training
+- Practical Recommendations for Gradient-Based Training of Deep Architectures https://arxiv.org/pdf/1206.5533v2.pdf
