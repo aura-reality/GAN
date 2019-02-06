@@ -6,7 +6,8 @@
   - Classification: https://github.com/ml4a/ml4a-guides/blob/master/notebooks/keras_classification.ipynb
   - Convolutional: http://ml4a.github.io/ml4a/convnets/
   - Transfer Learning: https://github.com/ml4a/ml4a-guides/blob/master/notebooks/transfer-learning.ipynb
-  - Recurrent: https://github.com/ml4a/ml4a-guides/blob/master/notebooks/recurrent_neural_networks.ipynb
+  - Recurrent: https://github.com/ml4a/ml4a-guides/blob/master/notebooks/recurrent_neural_networks.ipynb- 
+ OpenAI overview of generative models: https://blog.openai.com/generative-models/
   
 ## GANs
 - The paper that introduced GANs, but don't really need to read it: https://arxiv.org/abs/1406.2661
@@ -53,6 +54,7 @@ Using linear modulation on feature layers (to encode conditional information or 
 - Generating music: http://papers.nips.cc/paper/8023-the-challenge-of-realistic-music-generation-modelling-raw-audio-at-scale.pdf
 - Using GANs to generate training data:  https://machinelearning.apple.com/2017/07/07/GAN.html
 - GAN paper that combines multiple learned outputs into one final output (also trained on only synthetic data): https://arxiv.org/pdf/1703.10131.pdf 
+
 
 ### Training
 - Practical Recommendations for Gradient-Based Training of Deep Architectures https://arxiv.org/pdf/1206.5533v2.pdf
