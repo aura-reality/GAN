@@ -56,3 +56,5 @@ Using linear modulation on feature layers (to encode conditional information or 
 
 ### Training
 - Practical Recommendations for Gradient-Based Training of Deep Architectures https://arxiv.org/pdf/1206.5533v2.pdf
+- Improved Techniques for Training GANs https://arxiv.org/pdf/1606.03498.pdf
+- GAN Training Tips and Tricks: https://github.com/soumith/ganhacks
