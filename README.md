@@ -47,6 +47,7 @@ Using linear modulation on feature layers (to encode conditional information or 
 - BigGAN, Google going nuts on training: https://arxiv.org/abs/1809.11096
 
 ### Convolutional Generation
+- DCGan, introduced convolutional Gan paper- https://github.com/Newmu/dcgan_code 
 - Generating with a feedforward network: https://arxiv.org/pdf/1707.09405.pdf
 
 ### Other
