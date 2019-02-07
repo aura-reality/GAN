@@ -21,9 +21,9 @@
 - Introspective Adversarial Network, a novel hybridization of the VAE and GAN https://arxiv.org/abs/1609.07093 
 
 ### Conditional Gans
-- The paper that introduced conditional GANs: https://arxiv.org/pdf/1411.1784.pdf
-- Pics2pics paper (conditioning on an image/segmentation): https://arxiv.org/pdf/1611.07004.pdf
-- The pic2pics competitor that gives each segmentation instance, allowing control by changing the input segmentation: https://tcwang0509.github.io/pix2pixHD/
+- The paper that introduced *conditional* GANs: https://arxiv.org/pdf/1411.1784.pdf
+- Isola Pixs2pixs paper (conditioning on an image - image to image translation): https://arxiv.org/pdf/1611.07004.pdf. Great blog post explaining the paper: https://affinelayer.com/pix2pix/
+- Minor improvement on pix2pixs that gives each segmentation instance, allowing control by changing the input segmentation: https://tcwang0509.github.io/pix2pixHD/
 
 ### GAN manipulation: 
 - Zhu et al. Explores the latent space using the inverse function: https://arxiv.org/pdf/1609.03552.pdf
@@ -48,16 +48,15 @@ Using linear modulation on feature layers (to encode conditional information or 
 
 ### Convolutional Generation
 - DCGan, introduced convolutional Gan paper- https://github.com/Newmu/dcgan_code 
-- Generating with a feedforward network: https://arxiv.org/pdf/1707.09405.pdf
+- Generating with a convolutional feedforward network with a regular loss function (ie, not a GAN): https://arxiv.org/pdf/1707.09405.pdf
 
 ### Other
 - Deep Feature interpolation: https://arxiv.org/pdf/1611.05507.pdf
 - Generating music: http://papers.nips.cc/paper/8023-the-challenge-of-realistic-music-generation-modelling-raw-audio-at-scale.pdf
 - Using GANs to generate training data:  https://machinelearning.apple.com/2017/07/07/GAN.html
-- GAN paper that combines multiple learned outputs into one final output (also trained on only synthetic data): https://arxiv.org/pdf/1703.10131.pdf 
+- GAN paper that combines multiple learned outputs into one final output (trained on only synthetic data!!!): https://arxiv.org/pdf/1703.10131.pdf 
 
-
-### Training
+### Training GANs
 - Practical Recommendations for Gradient-Based Training of Deep Architectures https://arxiv.org/pdf/1206.5533v2.pdf
 - Improved Techniques for Training GANs https://arxiv.org/pdf/1606.03498.pdf
 - GAN Training Tips and Tricks: https://github.com/soumith/ganhacks
