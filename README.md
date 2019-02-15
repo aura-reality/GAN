@@ -30,6 +30,11 @@
 - GAN Dissection, look at the sublayers in the gan to control outputs: https://arxiv.org/pdf/1811.10597.pdf
 - How to interpolate in the latent space  https://openreview.net/pdf?id=BJslDBkwG
 - How to interpolate the latent space tricks: https://arxiv.org/pdf/1609.04468.pdf
+- BiGan - bidirectional gan - ie, latent to image, image to latent: https://arxiv.org/pdf/1605.09782.pdf
+- Face editing: https://arxiv.org/pdf/1711.10678.pdf
+
+
+
 
 ### FiLM: 
 Using linear modulation on feature layers (to encode conditional information or latent info). This is the inpsiration for the adaIN layers in the styleGAN paper. 
