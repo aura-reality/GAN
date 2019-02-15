@@ -31,9 +31,7 @@
 - How to interpolate in the latent space  https://openreview.net/pdf?id=BJslDBkwG
 - How to interpolate the latent space tricks: https://arxiv.org/pdf/1609.04468.pdf
 - BiGan - bidirectional gan - ie, latent to image, image to latent: https://arxiv.org/pdf/1605.09782.pdf
-- Face editing: https://arxiv.org/pdf/1711.10678.pdf
-
-
+- Face editing: https://arxiv.org/pdf/1711.10678.pdf, https://github.com/LynnHo/AttGAN-Tensorflow/
 
 
 ### FiLM: 
