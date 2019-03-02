@@ -48,6 +48,7 @@ Using linear modulation on feature layers (to encode conditional information or 
   * explainer blog: https://towardsdatascience.com/progan-how-nvidia-generated-images-of-unprecedented-quality-51c98ec2cbd2
   * released code: https://github.com/tkarras/progressive_growing_of_gans
 - BigGAN, Google going nuts on training: https://arxiv.org/abs/1809.11096
+- Vid2Vid: https://github.com/NVIDIA/vid2vid
 
 ### Convolutional Generation
 - DCGan, introduced convolutional Gan paper- https://github.com/Newmu/dcgan_code 
