@@ -50,11 +50,21 @@ Using linear modulation on feature layers (to encode conditional information or 
 - BigGAN, Google going nuts on training: https://arxiv.org/abs/1809.11096
 - Vid2Vid: https://github.com/NVIDIA/vid2vid
 
+### Image Compositing and other visual effects
+- Deep Image Harmonization: https://arxiv.org/pdf/1703.00069.pdf
+- ST-GAN: https://arxiv.org/pdf/1803.01837.pdf
+- VFX.AI: list of tools/papers for visual effects with AI https://vfx.ai/
+- Understanding asthetics: https://devblogs.nvidia.com/understanding-aesthetics-deep-learning/
+- Deep Image Matting: https://arxiv.org/pdf/1703.03872.pdf 
+- Compositing: https://arxiv.org/pdf/1807.07560.pdf
+
+
 ### Convolutional Generation
 - DCGan, introduced convolutional Gan paper- https://github.com/Newmu/dcgan_code 
 - Generating with a convolutional feedforward network with a regular loss function (ie, not a GAN): https://arxiv.org/pdf/1707.09405.pdf
 
 ### Other
+
 - Deep Feature interpolation: https://arxiv.org/pdf/1611.05507.pdf
 - Generating music: http://papers.nips.cc/paper/8023-the-challenge-of-realistic-music-generation-modelling-raw-audio-at-scale.pdf
 - Using GANs to generate training data:  https://machinelearning.apple.com/2017/07/07/GAN.html
