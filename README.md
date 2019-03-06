@@ -57,6 +57,7 @@ Using linear modulation on feature layers (to encode conditional information or 
 - Understanding asthetics: https://devblogs.nvidia.com/understanding-aesthetics-deep-learning/
 - Deep Image Matting: https://arxiv.org/pdf/1703.03872.pdf 
 - Compositing: https://arxiv.org/pdf/1807.07560.pdf
+- LayoutGAN: generating layouts: https://openreview.net/forum?id=HJxB5sRcFQ
 
 
 ### Convolutional Generation
